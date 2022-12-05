@@ -9,7 +9,7 @@ function App() {
         <p>
           Batman
         </p>
-        <img src="https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_Vol_3_86_Textless.jpg/revision/latest?cb=20200502132734Q" alt ="batman"></img>
+        <img src="https://i0.wp.com/batman-news.com/wp-content/uploads/2022/11/The-Adventures-of-Batman-Blu-ray-Featured-01.jpg?resize=828%2C466&quality=80&strip=info&ssl=1" alt ="batman"/>
      
       </header>
     </div>
